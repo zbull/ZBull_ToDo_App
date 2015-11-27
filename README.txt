@@ -7,3 +7,14 @@ I continued my studies on AngularJS and started to learn how to use Virtual Stud
 in which I ultimately wrote the task.
 
 To view the app just browse to index.html
+
+
+
+NOTES
+
+*Datepicker
+  I found out that HTML5's datepicker tag is only supported on Chrome. I need to change it to Bootstrap UI 
+  to have the accessibility through other browsers as well.
+  
+*Progress bar/ JQuery UI slider
+  I'm currently learning more about ng-storage and trying to find a way to save the progress bar value.
